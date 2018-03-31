@@ -9,4 +9,5 @@
 [정주영](https://github.com/jungjuyoung)
 [나라](https://github.com/narahan/)
 [박은정](https://github.com/ejolie)
+[김연수](https://github.com/yskimaz)
 [김화목](https://github.com/hwamok)
